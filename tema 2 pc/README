@@ -1,0 +1,15 @@
+Rosca Nicolae 312CC
+Cerinte rezolvate:
+1. Implementata in functia mainmenu utilizand sagetile de la tastatura,
+2. Implementat in functia trivia (exceptand data si timpul)
+3. Implementat in functia trivia
+4. Implementat in functia trivia (fara optiunea 50/50)
+5. Implementat in functia finishscreen
+Structura fisierelor este urmatoarea:
+INTREBARE
+OPTIUNE A
+OPTIUNE B
+OPTIUNE C
+OPTIUNE D
+OPTIUNE CORECTA
+In meniul principal se selecteaza cu sagetile si se apasa enter. In joc se alege optiunile cu literele de la tastatura {'a', 'b', 'c', 'd'} is 's' pentru optiune de skip. Daca se iese din joc, optiune Resume Game nu va mai redirectiona utilizatorul la New game, ci va reporni jocul.
